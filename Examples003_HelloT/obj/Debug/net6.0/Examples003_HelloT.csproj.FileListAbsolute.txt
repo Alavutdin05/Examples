@@ -1,0 +1,15 @@
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\bin\Debug\net6.0\Examples003_HelloT.exe
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\bin\Debug\net6.0\Examples003_HelloT.deps.json
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\bin\Debug\net6.0\Examples003_HelloT.runtimeconfig.json
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\bin\Debug\net6.0\Examples003_HelloT.dll
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\bin\Debug\net6.0\Examples003_HelloT.pdb
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\Examples003_HelloT.csproj.AssemblyReference.cache
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\Examples003_HelloT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\Examples003_HelloT.AssemblyInfoInputs.cache
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\Examples003_HelloT.AssemblyInfo.cs
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\Examples003_HelloT.csproj.CoreCompileInputs.cache
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\Examples003_HelloT.dll
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\refint\Examples003_HelloT.dll
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\Examples003_HelloT.pdb
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\Examples003_HelloT.genruntimeconfig.cache
+C:\Users\alavu\Desktop\Examples\Examples003_HelloT\obj\Debug\net6.0\ref\Examples003_HelloT.dll
